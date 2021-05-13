@@ -1,0 +1,26 @@
+:root {
+    --navithumbmarg: 10px;
+    --navithumbh: unset;
+    --spbordercolor: unset;
+    --spshadowcolor: unset;
+    --spshadowstrength: unset;
+}
+
+.navi-preview {
+    display: none;
+    position: relative;
+    top: var(--navithumbmarg);
+    opacity: 1;
+    border: 1px solid var(--spbordercolor);
+    border-bottom: 1px solid var(--spbordercolor);
+    box-shadow: 0 0 var(--spshadowstrength) var(--spshadowcolor);
+}
+
+.hover_preview_container {
+    position: fixed;
+    top: var(--navithumbh);
+}
+
+#navigation .monks-scene-navigation .scene-list > li.nav-item .navi-preview{
+    top: calc(var(--navithumbmarg) + 15px);
+}

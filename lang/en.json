@@ -1,0 +1,11 @@
+{
+  "I18N.LANGUAGE": "English",
+  "I18N.MAINTAINERS": "@JeansenVaars#2857",
+
+  "ScenePreview.Enabled": "Enabled",
+  "ScenePreview.Disabled": "Disabled",
+
+  "ScenePreview.NavigationPreviewName": "Scene Navigation Preview",
+  "ScenePreview.NavigationPreviewHint": "Choose whether to show an image preview on the navigation top bar.",
+  "ScenePreview.NavigationPreviewHover": "On Mouse Over"
+}
