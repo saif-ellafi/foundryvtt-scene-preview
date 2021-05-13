@@ -4,6 +4,8 @@ Shows the GM a preview image of the scene, on moving the mouse over the scene na
 
 This was formerly part of **Minimal UI** but it was ripped off for better flexibility and independence.
 
+**Recommended with Minimal UI**
+
 ![ScenePreview](sprev.gif)
 
 ## By JeansenVaars
