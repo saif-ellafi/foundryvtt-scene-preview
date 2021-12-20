@@ -1,5 +1,5 @@
 # Scene Preview
-### _Created by: JeansenVaars_
+### _Created by: JeansenVaars_ - [Invite me to a Coffee](#by-jeansenvaars) :) if you like this module!
 
 Shows the GM a preview image of the scene, on moving the mouse over the scene navigation scenes.
 
