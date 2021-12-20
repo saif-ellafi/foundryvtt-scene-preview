@@ -1,4 +1,5 @@
 # Scene Preview
+### _Created by: JeansenVaars_
 
 Shows the GM a preview image of the scene, on moving the mouse over the scene navigation scenes.
 
