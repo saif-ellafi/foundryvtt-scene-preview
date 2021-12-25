@@ -1,0 +1,31 @@
+{
+  "name": "foundryvtt-scene-preview",
+  "version": "0.1.2",
+  "description": "Paste images from Clipboard into Tiles",
+  "main": "scenepreview.js",
+  "scripts": {
+    "copy": "mkdir -p dist && cp ./scenepreview.js dist/ && cp ./README.md dist/ && cp ./CHANGELOG.md dist/ && cp ./LICENSE.md dist/ && cp ./module.json dist/ && cp ./THANKS.txt dist/",
+    "copyWin": "mkdir dist && copy module.json dist && copy scenepreview.js dist && copy README.md dist && copy CHANGELOG.md dist && copy LICENSE.md dist && copy module.json dist && copy THANKS.txt dist",
+    "zip": "npm-build-zip --source=dist --destination=.",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saif-ellafi/foundryvtt-scene-preview.git"
+  },
+  "keywords": [
+    "foundry",
+    "vtt",
+    "scene",
+    "preview"
+  ],
+  "author": "JeansenVaars (Saif Ellafi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saif-ellafi/foundryvtt-scene-preview/issues"
+  },
+  "homepage": "https://github.com/saif-ellafi/foundryvtt-scene-preview",
+  "devDependencies": {
+    "npm-build-zip": "^1.0.3"
+  }
+}
