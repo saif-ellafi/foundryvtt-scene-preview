@@ -5,10 +5,10 @@ Shows the GM a preview image of the scene, on moving the mouse over the scene na
 
 This was formerly part of **Minimal UI** but it was ripped off for better flexibility and independence.
 
-![ScenePreview](sprev.gif)
-
 ### _Created by: JeansenVaars_ - [Invite me to a Coffee](#by-jeansenvaars) :) if you like this module!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V14D3AH)
+
+![ScenePreview](sprev.gif)
 
 **Recommended with Minimal UI**
 
