@@ -1,5 +1,6 @@
 # Scene Preview
 ### _Created by: JeansenVaars_ - [Invite me to a Coffee](#by-jeansenvaars) :) if you like this module!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V14D3AH)
 
 Shows the GM a preview image of the scene, on moving the mouse over the scene navigation scenes.
 
