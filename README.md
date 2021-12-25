@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/saif-ellafi/foundryvtt-scene-preview/total?logo=GitHub) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/saif-ellafi/foundryvtt-scene-preview/latest/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/saif-ellafi/foundryvtt-scene-preview) ![GitHub issues](https://img.shields.io/github/issues-raw/saif-ellafi/foundryvtt-scene-preview) ![GitHub](https://img.shields.io/github/license/saif-ellafi/foundryvtt-scene-preview)
 # JV's Scene Preview
 
 Shows the GM a preview image of the scene, on moving the mouse over the scene navigation scenes.
