@@ -3,12 +3,12 @@
 	"title": "Scene Preview",
 	"author": "JeansenVaars#2857",
 	"description": "Shows the GM a preview image of scenes on mouse hover",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"minimumCoreVersion": "0.8.3",
-	"compatibleCoreVersion": "0.8.3",
+	"compatibleCoreVersion": "9",
 	"esmodules": [ "scenepreview.js" ],
 	"styles": [ "scenepreview.css" ],
 	"url": "https://github.com/saif-ellafi/foundryvtt-scene-preview.git",
 	"manifest": "https://github.com/saif-ellafi/foundryvtt-scene-preview/releases/latest/download/module.json",
-	"download": "https://github.com/saif-ellafi/foundryvtt-scene-preview/releases/download/1.0.0/foundryvtt-scene-preview_1.0.0.zip"
+	"download": "https://github.com/saif-ellafi/foundryvtt-scene-preview/releases/download/2.0.0/foundryvtt-scene-preview_2.0.0.zip"
 }
