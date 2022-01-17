@@ -1,6 +1,5 @@
 :root {
     --navithumbmarg: 10px;
-    --navithumbh: unset;
     --spbordercolor: unset;
     --spshadowcolor: unset;
     --spshadowstrength: unset;
@@ -18,7 +17,6 @@
 
 .hover_preview_container {
     position: fixed;
-    top: var(--navithumbh);
 }
 
 #navigation .monks-scene-navigation .scene-list > li.nav-item .navi-preview{
