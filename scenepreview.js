@@ -4,7 +4,7 @@ class ScenePreview {
 
   static prepareScenePreview(i, sceneTab, sceneId) {
     if (sceneId) {
-      let sceneThumbUrl = game.scenes.get(sceneId).data.thumb;
+      let sceneThumbUrl = game.scenes.get(sceneId).thumb;
       if (sceneThumbUrl) {
         new Image().src = sceneThumbUrl;
         $(sceneTab).append(
