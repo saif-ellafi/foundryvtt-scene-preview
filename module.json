@@ -9,7 +9,7 @@
 	"compatibility": {
 		"minimum": "0.8.3",
 		"verified": "10.284",
-		"maximum": 10
+		"maximum": "10"
 	},
 	"esmodules": [ "scenepreview.js" ],
 	"styles": [ "scenepreview.css" ],
