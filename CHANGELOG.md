@@ -1,3 +1,6 @@
+### 3.1.0
+* Support for Foundry V10
+
 ### 3.0.0
 * Simplified code and better compatibility
 
