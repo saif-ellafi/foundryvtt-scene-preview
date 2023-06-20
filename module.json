@@ -1,19 +1,25 @@
 {
-	"name": "scene-preview",
+	"id": "scene-preview",
 	"title": "Scene Preview",
-	"author": "JeansenVaars#2857",
+	"authors": [
+		{
+			"name": "Saif Addin Ellafi",
+			"discord": "JeansenVaars#2857",
+			"ko-fi": "https://ko-fi.com/jeansenvaars"
+		}
+	],
 	"description": "Shows the GM a preview image of scenes on mouse hover",
-	"version": "3.1.0",
+	"version": "3.2.0",
 	"minimumCoreVersion": "0.8.3",
 	"compatibleCoreVersion": "10",
 	"compatibility": {
 		"minimum": "0.8.3",
-		"verified": "10.284",
-		"maximum": "10"
+		"verified": "11.302",
+		"maximum": "11"
 	},
 	"esmodules": [ "scenepreview.js" ],
 	"styles": [ "scenepreview.css" ],
 	"url": "https://github.com/saif-ellafi/foundryvtt-scene-preview.git",
 	"manifest": "https://github.com/saif-ellafi/foundryvtt-scene-preview/releases/latest/download/module.json",
-	"download": "https://github.com/saif-ellafi/foundryvtt-scene-preview/releases/download/3.1.0/foundryvtt-scene-preview_3.1.0.zip"
+	"download": "https://github.com/saif-ellafi/foundryvtt-scene-preview/releases/download/3.2.0/foundryvtt-scene-preview_3.2.0.zip"
 }
